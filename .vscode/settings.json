@@ -1,0 +1,21 @@
+{
+    "[python]": {
+        "editor.formatOnSave": true,
+        "editor.codeActionsOnSave": {
+            "source.fixAll": "explicit",
+            "source.organizeImports": "explicit"
+        },
+        "editor.defaultFormatter": "charliermarsh.ruff"
+    },
+    "notebook.formatOnSave.enabled": true,
+    "notebook.codeActionsOnSave": {
+        "notebook.source.fixAll": "explicit",
+        "notebook.source.organizeImports": "explicit"
+    },
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#590E30",
+        "titleBar.activeBackground": "#7D1443",
+        "titleBar.activeForeground": "#FEFCFD"
+    },
+    "DockerRun.DisableDockerrc": true,
+}
